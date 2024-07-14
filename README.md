@@ -1,4 +1,10 @@
-### Hi there 👋
+#### 👋 Hello World! I'm Saksham Agarwal
+
+`$ sudo brew info me:`
+- 🎓 Sophomore at IIT Kanpur
+- 📐 Majoring in Mathematics & Computing
+- 💻 Passionate about Development and Competitive Programming
+- ☕ Fueled by Chai and Algorithms
 
 <!--
 **code-timely/code-timely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
